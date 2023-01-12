@@ -1,7 +1,7 @@
-![logo](https://github.com/Moofie15/MOofie15/blob/f134dc47c403eae4b6f742c09ff84ea5c5cf4f75/acf9e682fdfbb3dbfe47ca7f15d4d147.png)
+![logo](https://github.com/Moofie15/MOofie15/blob/732b0465722f88d3ec4bcbcdeda894dfbb4a1cca/preview-194847-yw48rW0E8a-high_0012.jpg)
 <h1 align="center">Hi 👋, I'm Aditya kumar shrivastava</h1>
 <h3 align="center">A Data Analyst and scientist from india</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/2800/0*hpyUPaBF9V3Mb5T6.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moofie15&label=Profile%20views&color=0e75b6&style=flat" alt="moofie15" /> </p>
 
 - 🌱 I’m currently learning **SQl||PYTHON||ML||POWER IB||TABLEAU**
