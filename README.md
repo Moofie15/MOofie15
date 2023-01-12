@@ -1,4 +1,4 @@
-![logo]([https://giphy.com/gifs/trt-network-trt1-trt-1-4ReK5ligyz4PvUzfGl/fullscreen](https://wallpapercave.com/wp/wp4748441.jpg))
+![logo](https://github.com/Moofie15/MOofie15/blob/f134dc47c403eae4b6f742c09ff84ea5c5cf4f75/acf9e682fdfbb3dbfe47ca7f15d4d147.png)
 <h1 align="center">Hi 👋, I'm Aditya kumar shrivastava</h1>
 <h3 align="center">A Data Analyst and scientist from india</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/2800/0*hpyUPaBF9V3Mb5T6.gif">
