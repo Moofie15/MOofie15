@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/trt-network-trt1-trt-1-4ReK5ligyz4PvUzfGl/fullscreen)](https://rishavchanda.io)
+[![MasterHead](https://giphy.com/gifs/trt-network-trt1-trt-1-4ReK5ligyz4PvUzfGl/fullscreen)]
 
 <h1 align="center">Hi 👋, I'm Aditya kumar shrivastava</h1>
 <h3 align="center">A Data Analyst and scientist from india</h3>
