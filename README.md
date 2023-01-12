@@ -1,10 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/trt-network-trt1-trt-1-4ReK5ligyz4PvUzfGl/fullscreen)]
-
+![logo]([https://giphy.com/gifs/trt-network-trt1-trt-1-4ReK5ligyz4PvUzfGl/fullscreen](https://wallpapercave.com/wp/wp4748441.jpg))
 <h1 align="center">Hi 👋, I'm Aditya kumar shrivastava</h1>
 <h3 align="center">A Data Analyst and scientist from india</h3>
-
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/gifnewstest-artists-on-tumblr-OihklQLAeUfTi/fullscreen")
-
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/2800/0*hpyUPaBF9V3Mb5T6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moofie15&label=Profile%20views&color=0e75b6&style=flat" alt="moofie15" /> </p>
 
 - 🌱 I’m currently learning **SQl||PYTHON||ML||POWER IB||TABLEAU**
