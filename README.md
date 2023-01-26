@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moofie15&label=Profile%20views&color=0e75b6&style=flat" alt="moofie15" /> </p>
 
-- 🌱 I’m currently learning **SQl||PYTHON||ML||POWER IB||TABLEAU**
+- 🌱 I’m currently learning **SQl||PYTHON||ML||POWER BI||TABLEAU**
 
 - 📫 How to reach me **adi.shrivastava15@gmail.com**
 
