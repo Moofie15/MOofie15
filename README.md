@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **adi.shrivastava15@gmail.com**
 
-- ⚡ Fun fact **I Am Artistic Engineer**
+- ⚡ Fun fact **I Am An Artistic Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
